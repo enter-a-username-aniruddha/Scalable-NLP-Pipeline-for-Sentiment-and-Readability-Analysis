@@ -94,4 +94,5 @@ if __name__ == '__main__':
 
     app.run(host='0.0.0.0', port=5000, threaded=True)
 
+https://docs.google.com/document/d/11AGcvljvg2Q9Rb0i7Kni2GoWC9eg5Bmpj8BZKdJWen4/edit?usp=drivesdk
 
